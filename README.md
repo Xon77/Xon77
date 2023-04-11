@@ -5,11 +5,13 @@
 <a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-![Profile View Counter](https://komarev.com/ghpvc/?username=Xon77)
+
 
 <!--
 **Xon77/Xon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 &nbsp;&nbsp; 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Xon77)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
