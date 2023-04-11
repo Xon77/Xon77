@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202022.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
 
 <!--
 **Xon77/Xon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://gkos.tech/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
 
 I hold a **doctorate in composition and sound creation from Université de Montréal**. I have been developing since 2011 a sound creation and spatialisation tool **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. 
 
