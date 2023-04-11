@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I hold a **doctorate in composition and sound creation from Université de Montréal**. I have been developing since 2011 a sound creation and spatialisation tool **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. 
 
-My **spatial research**, which questions ways of associating rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code.
+My **spatial research**, which questions ways of associating rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. Check my **[Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal and technical details.
 
-I am currently doing a **postdoctoral internship at UQAM** in the School of Visual and Media Arts, from September 2022 until August 2024 under the supervision of Philippe-Aubert Gauthier thanks to FRQSC funding for post-doctoral research.
+I am currently doing a **postdoctoral internship at UQAM** in the School of Visual and Media Arts, from September 2022 until August 2024 under the supervision of [Philippe-Aubert Gauthier](https://github.com/pagauthier) thanks to FRQSC funding for post-doctoral research.
 
 I am **currently looking for audiovisual collaborations** both with video developers to create the visual from the sound data generated, and with dancers (particularly traditional dances like Gigue from Québec) to finally assess the impact between the gesture of the performer, the dancing bodies and the video environment.
 
