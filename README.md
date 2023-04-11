@@ -1,7 +1,10 @@
 ### Hi there 👋 
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202022.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a> 
+</a>
+<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
 
 <!--
 **Xon77/Xon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
