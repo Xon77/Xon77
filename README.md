@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousma.png)
+![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
