@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 <a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
     <img alt='FesseBook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
 </a>
+<a href='https://www.instagram.com/christophexon' target="_blank">
+    <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
+</a>
+
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
  
