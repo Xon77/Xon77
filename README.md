@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
 </a>
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
