@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
+<a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
+</a>
 <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
     <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
 </a>
