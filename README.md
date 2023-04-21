@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
 </a>
- <a href="https://github.com/MacroPower/MacroPower">
+ <a href="https://github.com/Xon77">
     <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
   </a>
 
