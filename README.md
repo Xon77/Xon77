@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 👯 Currently **looking for audiovisual collaborations** both with **video developers** to create the visual from the sound data generated in open source, and with **dancers / movement artists** (e.g. circus) to finally assess the impact between the gesture of the performer, the dancing bodies and the video environment. Technically, the audiovisual object mapping could be developed through open source tools, such as Processing, Open Frameworks, Hydra, or even through commercial tools like Touch Designer and Resolume, as long as the creation process and the code are published on Github and open to everyone.
 
-<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202022.pdf">
+<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
