@@ -1,0 +1,764 @@
+%
+% LaTeX source of my resume
+% =========================
+%
+% Heavily commented to to fit even LaTeX beginners (hopefully).
+%
+% See the `README.md` file for more info.
+%
+% This file is licensed under the CC-NC-ND Creative Commons license.
+%
+
+
+
+
+
+% Start a document with the here given default font size and paper size.
+\documentclass[10pt,a4paper]{article}
+
+% Set the page margins.
+\usepackage[a4paper,margin=0.75in]{geometry}
+
+\usepackage{graphicx}
+
+% Setup the language.
+\usepackage[english]{babel}
+\hyphenation{Some-long-word}
+
+% Makes resume-specific commands available.
+\usepackage{resume}
+
+\usepackage{hyperref}
+
+
+
+%\usepackage{bbding}
+\usepackage{marvosym}
+\usepackage{wasysym}
+
+
+
+\hypersetup{
+    %colorlinks,%
+    colorlinks=true,%
+    %citecolor=black,%
+    citecolor=red,
+    filecolor=black,%
+    linkcolor=blue,%
+    %urlcolor=black
+    urlcolor=blue
+}
+
+
+
+\begin{document}  % begin the content of the document
+\sloppy  % this to relax whitespacing in favour of straight margins
+
+
+% title on top of the document
+\maintitle{Christophe Lengel\'e}{}{Last update on \today}
+
+
+\nobreakvspace{0.5em}  % add some page break averse vertical spacing
+% \nobreakvspace{0.5em}  % add some page break averse vertical spacing
+
+% \noindent prevents paragraph's first lines from indenting
+% \mbox is used to obfuscate the email address
+% \sbull is a spaced bullet
+% \href well..
+% \\ breaks the line into a new paragraph
+
+%\noindent\href{mailto:cies.at.kde.dot.nl}{cies\mbox{}@\mbox{}kde.nl}\sbull
+%\textsmaller{+}31.646469087\sbull
+%%{\newnums cies010} 
+%\emph{(Skype)}\sbull
+%\href{http://www.linkedin.com/in/ciesbreijs}{www.linkedin.com/in/ciesbreijs}
+%\\
+%Mathenesserplein 84\sbull
+%3022\thinspace {\large \sc ld}\sbull
+%Rotterdam\sbull
+%The Netherlands
+
+
+
+% Pour changer les font des url
+\urlstyle{same}
+
+
+% \noindent \Venus \hspace{1.1em} {October 7, 1977} \\
+% \noindent \Letter \hspace{0.8em} 5596 rue Saint Denis - App. 15 \\  %\hspace{1cm}
+%\indent 
+%\noindent %\hspace{0.2em} 
+\noindent Montréal, Qc, Canada  \\
+% or \Envelope
+% \phone \hspace{0.8em} (1) 514 475 80 86 \\
+% \Email 
+\href{mailto:lengele.christophe@courrier.uqam.ca}{lengele.christophe@courrier.uqam.ca} \\ %\indent
+%\hspace{0.3em} {\url{https://soundcloud.com/christophexon}} \\ \indent
+%\hspace{0.3em} {\url{https://vimeo.com/christophexon}}
+\href{https://www.researchgate.net/profile/Christophe-Lengele}{ResearchGate} |
+\href{https://scholar.google.com/citations?hl=fr&user=ejcaJWgAAAAJ}{Google Scholar} |
+%\indent 
+\href{https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g}{YouTube} |
+\href{https://vimeo.com/christophexon}{Vimeo} |
+%\indent 
+\href{https://github.com/Xon77}{Github}
+
+
+
+
+\vspace{0.7em}
+\spacedhrule{0.9em}{-0.4em}  % a horizontal line with some vertical spacing before and after
+
+% \roottitle{Summary}  % a root section title
+\roottitle{Career Goals and Profile}  % a root section title
+
+%\vspace{-1.3em}  % some vertical spacing
+%\begin{multicols}{2}  % open a multicolumn environment
+\noindent \textbf{Spatial sound improviser, composer \& developer of experimental live audio open source tools}
+%\emph{Creative geek with roots in the open source movement, an entrepreneurial mindset and a passion for delivering value by developing maintainable software.}
+\nobreakvspace{1em}
+
+%Having completed a Doctorate in Music - composition and sound design - at Universit\'e de Montr\'eal, my field of activity and research is spatial sound design, electronic and electroacoustic composition and performance with a special focus on the development of live experimental audio tools and interfaces built from open source softwares like SuperCollider.
+
+
+%\vspace{1em}After studying law and economics and working as a marketing and market analyst in international companies for a few years, during which I gathered data and resources to develop interactive dashboards and custom simulation tools for helping in decision making and trained the people to use them and design their own models, I decided to quit the business field in 2006 and returned to studies to be trained in electroacoustic composition to obtain a Master of Arts in computer music in 2014, gaining proficiency in music and technology based creation. 
+%I'm currently following a Master of Compostion at the university of Montreal. 
+
+%\vspace{1em}I seek to bring together the spheres of composition and improvisation and focus on performing variable spatio-temporal pieces with a global custom live tool, which I have been developping regularly since 2011 in order to play the place and the music at the same time. My spatial improvising approach has been presented and performed at the International Computer Music Conference in South Korea in 2018 and 2021, as well as in France in 2017 and 2019 during the Journ\'ees d'Informatique Musicale.
+
+% \vspace{1em}This spatial performance programme based on parameter loops and cycles and personal experiences is intended to integrate life process in composition by confronting pre-recorded parameter sequences with all kinds of variations in real time, ease spatial sound creation process with pieces of \textit{audio lives} and investigate the spatial relationships between sound objects and the impact of the audio effect environment on their development.
+
+%At the age of seven (1989) Cies wrote his first lines of code in a \acr{LOGO}-like language on an \acr{MSX} (pre-\acr{PC}).  Two years later he attended a conference on an emerging new technology, the Internet, at the Erasmus University from which he would graduate 16 years later.
+%
+%After being introduced to the open source movement in 1997, he taught himself a variety of skills including system administration and programming (Bash, Python, Ruby \& \CPP).  By 2002 he got his pet project \acr{KT}urtle ---a zero-entry-barrier programming environment--- included into \acr{KDE}'s \emph{edu} module, and thereby almost every Linux distribution.
+%
+%From 2003 to 2007 he studied at the Erasmus University Rotterdam and graduated in \emph{Business and Computer Science} (one curriculum).  After graduation he travelled Europe and Asia during a two year sabbatical, on which he ``hustled'' several IT gigs (see experiences below) to extend the journey.
+%\end{multicols}
+
+
+
+Christophe Lengelé is a spatial sound designer and performer for electronic and experimental music. He particularly focusses on the development of live experimental audio tools and interfaces built from open source softwares like SuperCollider.
+
+\vspace{1em}
+After studying law and economics and working as a marketing and market analyst in international companies for a few years, he decided to quit the business field in 2006 to study electroacoustic composition. He trained and worked from 2008 to 2012 at the Municipal Conservatory Georges Bizet of the 20th district of Paris and obtained a Master of Arts in computer music at Université Paris-Est Marne-la-Vallée in 2014 and a Doctorate in music (composition and sound design) at Université de Montréal in 2022. He is currently doing a postdoctoral research/creation in spatial improvisation at Université du Québec À Montréal.
+
+\vspace{1em}
+He seeks to bring together the spheres of composition and improvisation and focus on performing variable spatio-temporal pieces with a global custom live tool. He has been regularly developing this tool since 2011, in order to “play the place and the music at the same time”. His spatial research, which questions ways of associating rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code ({\href{https://github.com/Xon77/Live4Life}{https://github.com/Xon77/Live4Life}}). 
+
+
+
+\vspace{1em}
+His works have been presented and performed internationally, particularly at the International Computer Music Conference (2018 and 2021), during the Journées d’Informatique Musicale in France (2017 and 2019), at Akousma Festival 2021 (Montréal, Canada), as well as at Cube Fest 2022 (Virginia Tech, Blacksburg, USA), and more recently at gala Hexagram 2023 (Montréal, Canada). He is the recipient of several research-creation grants.
+
+
+\vspace{0.2em}
+
+\spacedhrule{0.9em}{-0.4em}
+%\spacedhrule{0em}{-0.4em}
+
+
+\roottitle{Education and Training}
+
+\vspace{0.2em}
+
+\headedsection
+  {\href{https://admission.umontreal.ca/programmes/doctorat-en-musique-option-composition-et-creation-sonore/}{Universit\'e de Montr\'eal}}
+  {\textsc{Montréal}} {%
+  \headedsubsection
+    {1-year Master and Doctorate in Music - Composition and Sound Design}
+    %{2015 - 2017}
+    {Sep 2015 - Apr 2022}
+    {
+    \\{\href{https://www.researchgate.net/publication/360018268}{Thesis}}: Spatial improvisation generated from polyrhythmic patterns and looped parameter sequences funded by {\href{https://frq.gouv.qc.ca/en/society-and-culture/}{FRQSC scholarship}}
+    }
+}
+
+\vspace{0.7em}
+
+\headedsection
+  {\href{http://www.u-pem.fr/formations/loffre-de-formations/masters/domaine-arts-lettres-langues/mention-arts-lettres-civilisations/master-musique-et-informatique-musicale/}{Universit\'e Paris-Est Marne-la-Vall\'ee}}
+  {\textsc{Noisy-le-Grand}} {%
+  \headedsubsection
+    {Master of Music - Contemporary Music and Computer Music}
+    {2012 - 2014}
+    {\\with distinction (2:1) - Mention Bien (15.2/20)
+    \\Thesis: Spatialisation in electronic music
+    %\bodytext{Master Thesis: Spatialization in electronic music
+    %\\Development of a spatial performance tool
+    %}
+    }
+}
+
+\vspace{0.7em}
+
+% http://fr.wikipedia.org/wiki/Mention_honorifique
+
+\headedsection
+  {\href{http://equipement.paris.fr/conservatoire-municipal-georges-bizet-1635}{Paris Municipal Conservatory - Georges Bizet (20th district)}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Training in Electroacoustic and Computer assisted composition}
+    {2008 - 2012}
+    {
+    %\bodytext{Master Thesis on Spatialization in electronic music}
+    }
+}
+
+\vspace{0.7em}
+
+\headedsection
+  {\href{http://www.ircam.fr/}{IRCAM}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Workshops on Computer composition, sound design and audio processing}
+    {Oct 2006 - May 2007}
+    {
+    %\bodytext{Master Thesis on Spatialization in electronic music}
+    }
+}
+
+\vspace{0.7em}
+
+\headedsection
+  {\href{https://www.3is-education.fr}{International Institute of Image and Sound}}
+  {\textsc{\'Elancourt}} {%
+  \headedsubsection
+    {Training in Multimedia Design and Engineering}
+    {Feb 2007 - Sep 2007}
+    {
+    %\bodytext{Master Thesis on Spatialization in electronic music}
+    }
+}
+
+\vspace{0.7em}
+
+\headedsection
+  {\href{http://www.univ-paris1.fr/}{Universit\'e Paris I - Panth\'eon Sorbonne}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Master in International Economics}
+    {2002}
+    {\\with distinction (2:2) - Mention Assez Bien (13.3/20)%\bodytext{Master Thesis on Spatialization in electronic music}
+    }
+}
+
+\vspace{0.7em}
+
+\headedsection
+  {\href{https://u-paris.fr}{Universit\'e Paris VII - Denis Diderot}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Bachelor in Law and Applied Foreign languages}
+    {2000}
+    {\\with distinction (2:1) - Mention Bien (14.1/20)
+    \\1-year Erasmus Programme at the Humboldt University in Berlin
+    %\bodytext{Master Thesis on Spatialization in electronic music}
+    }
+}
+
+
+
+%\headedsection  % sets the header for the section and includes any subsections
+%  {\href{http://www.hoppinger.com}{Hoppinger}}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {Head of Technology}
+%    {Apr \apo12 -- present}
+%    {\bodytext{Hoppinger is an open source minded ``full-service'' internet agency.  Reporting directly to the general director, Marijn Bom. In charge of drawing and carrying out the vision for the tech department consisting of 15 developers.  Streamlined datacenter operations with Puppet, introduced Rails for custom web-app development and Capistrano for deployment automation.  Intimately involved with the software architecture of all technically challenging projects.}}
+%}
+%
+%\headedsection  % sets the header for a subsection and contains usually body text
+%  {\href{http://www.hro.nl}{HRO} (Rotterdam University of Applied Science)}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {Guest Lecturer}
+%    {Sep \apo12 -- present}
+%    {\bodytext{Introductory lecture on history of software development and open source for 1\textsuperscript{st} year CS students.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.intellecap.com}{Intellecap}/\href{http://istpl.in}{\acr{ISTPL}}}
+%  {\textsc{Mumbai, Pune \& Hyderabad, India}} {%
+%
+%  \headedsubsection
+%    {\acr{IT} Consultant}
+%    {Nov \apo08 -- Feb \apo09}
+%    {\bodytext{Intellecap is a social-sector advisory firm serving corporates, non-profits, development agencies and governments working in developing markets. Assessed their software development team and methodologies, trained their developers and build several web applications.  One of those apps is \href{http://www.mostfit.org}{Mostfit}, an open source \acr{MIS} for \href{http://en.wikipedia.org/wiki/Microcredit}{microcredit} lenders.}}
+%
+%  \headedsubsection
+%    {\acr{IT} \& Strategy Consultant}
+%    {Jan \apo10 -- Aug \apo11}
+%    {\bodytext{Called in to solve several technical challenges and look at potential growth strategies for \href{http://www.mostfit.org}{Mostfit}.}}
+%
+%  \headedsubsection
+%    {CTO}
+%    {Oct \apo11 -- Feb \apo12}
+%    {\bodytext{Proudly joined the \acr{C}-family of Intellicap's software division, ISTPL, to make \href{http://www.mostfit.org}{Mostfit} the nr.1 software solution for micro credit lenders around the globe.  Contracts got terminated half a year later due to investment issues.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.zarafa.com}{Zarafa}}
+%  {\textsc{Delft, The Netherlands}} {%
+%  \headedsubsection
+%    {\acr{QA} \& Release Manager}
+%    {Dec \apo09 -- Jan \apo11}
+%    {\bodytext{Zarafa might be the fastest growing open source product company in Europe, making a drop-in replacement for MS Exchange.  Reported directly to the \acr{CEO}, Brian Josef, and worked closely with the \acr{CTO}, Steve Hardy.  In charge of the 6 men strong QA department.  Established test automation and continuous integration.  Architected and implemented an all-integrated documentation and translation system that employed community effort.  Got sent to India to analyse and streamline their outsourced operations.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.dharmapublishing.com}{Dharma Publishing}}
+%  {\textsc{near San Francisco (\acr{CA}), \acr{USA}}} {%
+%  \headedsubsection
+%    {\acr{IT} Consultant}
+%    {Nov \apo09 -- Dec \apo09}
+%    {\bodytext{Dharma Publishing, the worlds largest Buddhist publisher, is a non-profit, all-volunteer organisation that helps to preserve Tibetan Buddhism and culture. Built their \href{http://www.dharmapublishing.com}{web shop}, and moved their digital content sales to SaaS applications.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.kde.org}{KDE}}
+%  {\href{http://edu.kde.org/kturtle}{edu.kde.org/kturtle}} {%
+%  \headedsubsection
+%    {Software Engineer}
+%    {Dec \apo03 -- present}
+%    {\bodytext{\acr{KT}urtle is an educational programming environment that simplifies learning the basics of programming.  \acr{KT}urtle is intended as a gift to future generations:\ a simple environment to get started with programming.  In 2003 \acr{KT}urtle got admitted to the \acr{KDE} project.}}
+%}
+%
+%\headedsection
+%  {\href{http://truetopiaproject.org}{Truetopia Project}}
+%  {\href{http://truetopiaproject.org}{truetopiaproject.org}} {%
+%  \headedsubsection
+%    {Initiator}
+%    {Nov \apo07 -- Apr \apo10}
+%    {\bodytext{The Truetopia Project is an open source web application (Rails) to facilitate self-governing communities.  It provides a workflow for collaborative problem identification and solution design.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.dpu.ac.th/dpuic}{Dhurakij Pundit University International College}}
+%  {\textsc{Bangkok, Thailand}} {%
+%  \headedsubsection
+%    {Guest Lecturer}
+%    {Sep \apo09}
+%    {\bodytext{Invited by Dr.\@ Pilun Piyasirivej and Mr.\@ Michel Bauwens for two guest lectures:\ the open source movement and the semantic web.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.opendream.th}{Opendream}}
+%  {\textsc{Bangkok, Thailand}} {%
+%  \headedsubsection
+%    {\acr{IT} Consultant}
+%    {Aug \apo09 -- Sep \apo09}
+%    {\bodytext{Architected and largely implemented an open source media sharing web service (\acr{REST} api) that facilitates video uploads, transcoding and streaming.  Coached their development team on system design, Ruby development (using Merb/Rails) and testing strategies such as \acr{TDD}/\acr{BDD}.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.commuun.nl}{Commuun}}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {Senior Visionary}
+%    {Jul \apo06 -- Sep \apo09}
+%    {\bodytext{Set up the technical infrastructure, defined the core competences and created a brand together with Peter Duijnstee (the proprietor of Commuun).  Then collaborated on several web applications (all Rails apps) within the context of his company.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.eur.nl}{Erasmus University Rotterdam}}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {Guest Lecturer}
+%    {Jul \apo06 -- Jul \apo09}
+%    {\bodytext{Conducted a guest lecture on the phenomenon of open source, as part of the first year curriculum of \emph{Computer Science \& Economics}.}}
+%}
+%
+%%\headedsection
+%%  {LIP Automatisering}
+%%  {\textsc{Breda, The Netherlands}} {%
+%%  \headedsubsection
+%%    {Software Auditor}
+%%    {Sep \apo06}
+%%    {\bodytext{Audited their flag ship product \emph{\acr{LIP} Suite}:\ an %\acr{ERP} solution for construction companies.}}
+%%}
+%
+%\headedsection
+%  {\href{http://www.thehealthagency.com}{The Health Agency}}
+%  {\textsc{Delft \& Rotterdam, The Netherlands}} {%
+%
+%  \headedsubsection
+%    {Software Engineer}
+%    {Jun \apo05 -- Feb \apo06}
+%    {\bodytext{Worked on their CMS (written in Python and uses Postgre\acr{SQL}, \acr{XML}/\acr{XSLT} and Twisted).}}
+%
+%  \headedsubsection
+%    {Software Auditor}
+%    {Dec \apo06}
+%    {\bodytext{Assessed their Python/Zope/\acr{Z}o\acr{DB}-based web framework re-engineering project.}}
+%}
+%
+%\vspace{-0.2em}
+%\begin{center}
+%  \emph{\small Please refer to my \href{http://www.linkedin.com/in/ciesbreijs}{Linked-in profile} for a more complete list of work experiences along with recommendations.}
+%\end{center}
+
+
+%\spacedhrule{-0.2em}{-0.4em}
+\vspace{3em}
+\spacedhrule{0.9em}{-0.4em}
+
+\roottitle{Professional Experience}
+
+\headedsection  % sets the header for the section and includes any subsections
+  {\href{https://eavm.uqam.ca}{Universit\'e du Québec À Montr\'eal}}
+  {\textsc{Montréal}} {%
+  \headedsubsection
+    {Postdoctoral Fellow in Research/Creation in spatial improvisation (internship)}
+    {since Sep 2022}
+    { %\bodytext{
+    %	\begin{itemize} \itemsep -0pt % Reduce space between items
+	%\item Recommendation and Beta-testing of spatial plugins (Octogris \& ZirkOsc)
+	%\item Development of a control interface on iPad in OSC from the Lemur application
+	% \end{itemize}
+%}
+}
+}
+
+\vspace{0.1em}  
+
+\headedsection  % sets the header for the section and includes any subsections
+  {\href{http://www.musique.umontreal.ca}{Universit\'e de Montr\'eal}}
+  {\textsc{Montréal}} {%
+  \headedsubsection
+    {Research Assistant in GRIS (Research Group in spatial immersion)}
+    % {Sep 2015 - Feb 2017}
+    {Sep 2015 -  Apr 2021}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Recommendation and Beta-testing of spatial plugins (SpatGRIS)
+	\item Development of a control interface on iPad in OSC from the Lemur application
+	\end{itemize}
+}}}
+
+\headedsection  % sets the header for the section and includes any subsections
+  {\href{https://conservatoires.paris.fr/conservatoires/bizet}{Paris Municipal Conservatory - Georges Bizet (20th district)}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Sound and Stage Technician}
+    {Nov 2008 - July 2010}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Organisation and technical supervision (sound and stage) of concerts
+	\item Supply management concerning audiovisual needs
+	\item Installation and dismantling of audiovisual equipment
+	\item Sound creation and mixing
+	\end{itemize}
+}}}
+
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.europ-assistance.fr/}{Europ Assistance}}
+  {\textsc{Gennevilliers}} {%
+  \headedsubsection
+    {Assistance Coordinator in Medical Department}
+    {Mar 2008 - Nov 2008}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Receiving calls from customers needing medical assistance abroad
+	\item Coordination of assistance between operators (local correspondants, hospitals, repatriation)
+	\end{itemize}
+}}}
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.ongconseil.com/}{ONG Conseil}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Donor Recruiter}
+    {Jan 2008 - Feb 2008}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Providing information to the public about NGO's targets and needs%Non Governmental Organizations' targets and needs
+	\item Fund-raising in public spaces %NGO sector
+	\end{itemize}
+}}}
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.mondomix.com/}{Mondomix}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Audiovisual and Multimedia Assistant (internship)}
+    {Aug 2007 - Sep 2007}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Website updates
+	\item Video archiving
+	\end{itemize}
+}}}
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.pirelli.com/tyre/fr/fr/homepage.html}{Pirelli France}}
+  {\textsc{Roissy en France}} {%
+  \headedsubsection
+    {Marketing Analyst}
+    {Jan 2005 - Sep 2006}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Pricing: Setting up pricing grids and discounts for special offers depending on inventory
+	\item Reporting and planning: Development of custom dashboards with key performance indicators
+	\item Development of synthetic and automatic sales support tools for the sales force
+	\item Market research: Partner management in strategic marketing
+	\end{itemize}
+}}
+\headedsubsection
+    {European Channel Manager Assistant}
+    {Sep 2003 - Dec 2004}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Operational management of a customer accounting for 25\% of turnover
+	\item Coordination and negociation of tenders from European Accounts
+	\end{itemize}
+}}
+}
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.aol.de/}{AOL Deutschland KG \& GmbH}}
+  {\textsc{Hamburg}} {%
+  \headedsubsection
+    {B2B Analyst in Strategic Alliances Group (internship)}
+    {Jun 2002 - Dec 2002}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Research of media and financial data on potential partners in interactive marketing and content
+	\item Analysis of partnership and new revenues opportunities: Business analysis and legal implications
+	\item Structuring of partnership contracts with European Accounts
+	\end{itemize}
+}}}
+
+\headedsection  % sets the header for the section and includes any subsections
+   {\href{http://www.morganstanley.com/}{Morgan Stanley Dean Witter France}}
+  {\textsc{Paris}} {%
+  \headedsubsection
+    {Legal and Financial Researcher in Investment Banking Department (internship)}
+    {Jun 1999 - Sep 1999}
+    {\bodytext{
+    	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item Reception and analysis of requests from financial analysts and information delivery
+	\item Setting-up database covering global information on companies quoted on the markets
+	\end{itemize}
+}}}
+
+
+%\headedsection
+%  {\href{http://www.eur.nl/english}{Erasmus University Rotterdam}}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {Bachelor degree in Computer Science \& Economics}
+%    {2004 -- 2007}
+%    {\bodytext{Focused on the economics of open source, rapid application development (\acr{RAD}) and the semantic web technology stack (\acr{RDF}/\acr{RDFS}, \acr{OWL} and \acr{SPARQL}).  Picked up quite some Java skills along the way.}}
+%}
+%
+%\headedsection
+%  {\href{http://www.tudelft.nl/en}{Technical University Delft}}
+%  {\textsc{Delft, The Netherlands}} {%
+%  \headedsubsection
+%    {Industrial Design Engineering \textnormal{\textit{~(discontinued)}}}
+%    {2001 -- 2002} {}
+%}
+%
+%\headedsection
+%  {\href{http://www.libanonlyceum.nl}{Libanon Lyceum}}
+%  {\textsc{Rotterdam, The Netherlands}} {%
+%  \headedsubsection
+%    {\acr{VWO} \textnormal{~(pre-university secondary education)}}
+%    {1994 -- 2000} {}
+%}
+
+
+\spacedhrule{1em}{-0.4em}
+
+% \roottitle{Skills}
+\roottitle{Languages and Technical Proficiency}
+
+\vspace{0.5em}  
+%\inlineheadsection
+\headedsection
+  {\textbf{Languages}}
+  % \vspace{1em}
+  {\\ French \emph{(mother tongue)} \\English \emph{(IELTS: 7.5 in October 2022)} \\ German \emph{(good written understanding)}}
+  
+
+\vspace{0.5em}  
+  
+% \inlineheadsection
+\headedsection  % special section that has an inline header with a 'hanging' paragraph
+  {\textbf{Technical expertise}} 
+  {
+	\begin{itemize} \itemsep -0pt % Reduce space between items
+	\item SuperCollider
+	% \item SuperCollider, Max MSP, Csound, Audiosculpt, OpenMusic, Pro Tools, Digital Performer
+	\item Word, Excel, Powerpoint, Business Objects
+	\item Photoshop, Illustrator, Final Cut Pro (elementary proficiency)
+	\item HTML, CSS, Javascript (elementary proficiency)
+	\end{itemize}
+   }
+  %{Software design and implementation, with(in) a team.  Big fan of Agile methodologies (Scrum and Kanban), automated deployment (Capistrano) and continuous integration (Hudson/Jenkins).  Enjoys writing Ruby/\nsp Python/\nsp Java/\nsp \CPP, yet flirts regularly with Haskell.  Solid knowledge of web technologies:\ \acr{HTML+CSS}, \acr{XML}, \acr{RDF}, \acr{REST}, \acr{SOAP} and JavaScript (mostly Angular and jQuery).  Linux administration skills:\ Bash, Apache, My\acr{SQL}, Postgres\acr{SQL}, virtualization/cloud (Vagrant, Open\acr{VZ}, \acr{VM}ware, \acr{KVM}, Xen and \acr{EC}2), datacenter automation (Puppet and Chef).}
+
+
+
+% \spacedhrule{1.6em}{-0.4em}
+% \spacedhrule{0.9em}{-0.4em}
+
+
+% \roottitle{Centers of Interest} %Leisure
+
+%\inlineheadsection
+%  {Non-exhaustive and in alphabetical order:}
+%  {art, Buddhism, cryptography, Go (board game), history, music, open source, philosophy, software engineering (methodologies), travel, typography (e.g.\ graphic design, \LaTeX), \acr{UI}/\acr{UX}-design and vegetarian/vegan cooking.}
+
+
+% {
+%	\begin{itemize} \itemsep -2pt % Reduce space between items
+%	\item Audiovisual works and interactive digital creations, philosophy, contemporary dance to break dancing
+%	%\item Contemporary dance to break dancing
+%	% \item Audiovisual works and interactive digital creations
+%	\end{itemize}
+%   }
+
+\newpage
+
+
+\spacedhrule{1em}{-0.4em}
+\roottitle{Scholarships awarded}
+
+\bodytext
+  % \vspace{1em}
+  {Graduate scholarship from Université de Montréal \hspace{8.8em} 		\textit{Sep 2016 - Apr. 2018} \hspace{2em} (26.000 \$) 
+  \\Doctoral research scholarship from the {\href{https://frq.gouv.qc.ca/en/society-and-culture/}{FRQSC}} \hspace{10.5em}			\textit{May 2018 - Dec. 2021} \hspace{1.5em} (77.000 \$)
+  \\Postdoctoral research-creation scholarship from the {\href{https://frq.gouv.qc.ca/en/society-and-culture/}{FRQSC}} \hspace{4.8em} 	\textit{Sep 2022 - Aug 2024} \hspace{2.5em} (90.000 \$)}
+
+\vspace{-0.2em}  
+
+
+\spacedhrule{1em}{-0.4em}
+\roottitle{Publications in journals}
+
+\vspace{0.4em}  
+
+\noindent Christophe Lengelé. 2021. Live 4 Life: A spatial performance tool to play the ephemeral and improvise with space and playback speeds. \textit{Organised Sound}, 26(1):89–99. {\href{https://doi.org/10.1017/S135577182100008X}{https://doi.org/10.1017/S135577182100008X}}.
+
+\spacedhrule{1em}{-0.4em}
+\roottitle{Conference articles and presentations}
+
+\vspace{0.4em}  
+
+\noindent Christophe Lengelé. 2023 (publication accepted for release in March 2024). Live 4 Life : A dream for a free and open spatial performance tool towards symbiosis or death ?
+In \textit{\href{https://isea2023.isea-international.org/en/accueil}{International Symposium on Electronic Arts}}, Paris, France.
+
+\vspace{0.6em} 
+
+ \noindent Christophe Lengelé. 2021. The story and the insides of a spatial performance tool: Live 4 Life. In \textit{International Computer Music Conference}, pages 133–139, Santiago, Chili. {\href{https://www.researchgate.net/publication/354526907}{https://www.researchgate.net/publication/354526907}}.
+%{\href{https://www.researchgate.net/publication/354526907_The_story_and_the_insides_of_a_spatial_performance_tool_Live_4_Life}{https://www.researchgate.net/publication/354526907_The_story_and_the_insides_of_a_spatial_performance_tool_Live_4_Life}}.
+
+\vspace{0.6em}  
+
+\noindent Christophe Lengelé. 2018. Live 4 Life - A spatial performance tool focused on rhythm and parameter loops. In \textit{International Computer Music Conference}, pages 298–303 Daegu, South Korea. {\href{https://quod.lib.umich.edu/cgi/p/pod/dod-idx/live-4-life-a-spatial-performance- tool-focused-on-rhythm.pdf?c=icmc;idno=bbp2372.2018.057;format=pdf}{https://quod.lib.umich.edu/cgi/p/pod/dod-idx/live-4-life-a-spatial-performance-tool-focused-on-rhythm.pdf?c=icmc;idno=bbp2372.2018.057;format=pdf}}.
+
+\vspace{0.6em}  
+
+\noindent Christophe Lengelé. 2017. La création en temps réel de polyrythmies spatialisées via l’outil de performance spatiale: Live 4 Life. In \textit{Proceedings of Journées d’Informatique Musicale}. Paris, France. {\href{https://jim2017.sciencesconf.org/data/Lengele2017aa.pdf}{https://jim2017.sciencesconf.org/data/Lengele2017aa.pdf}}.
+
+
+
+\spacedhrule{1em}{-0.4em}
+\roottitle{Concerts}
+
+
+\vspace{0.4em}  
+
+\noindent {\href{https://hexagram.ca/en/gala-hexagram-2023}{Gala Hexagram}}, Mezzanine of UQÀM's Agora du Cœur des sciences, Montréal, Canada, April 27th 2023 : \textit{Live 4 Life or Die - Free party with Parmegiani}, performance for a dome of 32 loudspeakers.
+
+\vspace{0.6em}  
+
+\noindent {\href{https://artscenter.vt.edu/performances/cube-fest-2022.html}{Cube Fest}}, at Virginia Tech, Blacksburg, VA, USA, August 21th 2022: \textit{Parmegiani meets SuperCollider}, improvisation recorded for a dome of 32 loudspeakers.
+
+\vspace{0.6em}  
+
+\noindent {\href{https://akousma.ca}{Akousma Festival}}, at Usine C, Montréal, Canada, October 15th 2021: \textit{Free party with Normandeau}, performance for a dome of 24 loudspeakers.  {\href{https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s}{https://player.vimeo.com/video/747391295}.
+
+\vspace{0.6em}  
+
+\noindent {Journées d'Informatique Musicale, at Auditorium Henri Grenet, Bayonne, France, May 13th 2019: \textit{Free parties will survive IV}, performance for a ring of 8 loudspeakers.  {\href{https://www.youtube.com/watch?v=NfWXF6copEs}{https://www.youtube.com/watch?v=NfWXF6copEs}}.
+
+\vspace{0.6em}  
+
+\noindent {International Computer Music Conference}, at Chamber Hall, Daegu, South Korea, August 9th 2018: \textit{The Machine III}, performance for a ring of 8 loudspeakers.
+
+\vspace{0.6em}  
+
+\noindent Ultrasons Festival at Salle Claude Champagne, Université de Montréal, Canada: Performance of 9 spatial improvisations from January 2016 until January 2020, organised twice a year. Most of the performances are available on {\href{https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g}{YouTube}} or {\href{https://vimeo.com/christophexon}{Vimeo}}. They were spatialised for a dome of 16 loudspeakers and organised around three themes: 
+\begin{enumerate} \vspace{-0.7em}
+\item technology (\textit{\href{https://www.youtube.com/watch?v=wBZq2YK_AOA}{The machine}}), \vspace{-0.7em}  
+\item capitalism (\textit{Free parties will survive}), \vspace{-0.7em} 
+\item loneliness (\textit{\href{https://www.youtube.com/watch?v=Nb7ITdBkikE}{Free party with Parmegiani}, Dhomont, Normandeau,...}).
+\end{enumerate}
+
+\vspace{-0.6em} 
+%\includegraphics[width=\textwidth]{/Users/xon/Documents/Projets/X_Candidatures/Resume CV/CL - Resume/PhotoAkousma.png}
+
+
+
+
+
+
+\spacedhrule{1em}{-0.4em}
+\roottitle{Workshops on spatial sound creation and improvisation with open source tools}
+
+\vspace{0.4em}  
+
+% https://coeurdessciences.uqam.ca/location-salles/agora-hydro-quebec.html
+\noindent Mezzanine of UQÀM's Agora du Cœur des sciences, two one-day training workshops and participatory installations organized as part of \href{https://hexagram.ca/en/demo33-christophe-lengele-live-4-life-or-die/}{Hexagram} in May and December 2023, Montréal, Canada.
+
+
+\vspace{0.6em}  
+% https://www.cirmmt.org/fr/events/workshops/research/spatial-sound-live4life
+%  (CIRMMT)
+
+\noindent \href{https://www.cirmmt.org/en/welcome-to-cirmmt?set_language=en}{Centre for Interdisciplinary Research in Music, Media and Technology (CIRMMT)}, five training workshops (\href{https://www.cirmmt.org/en/events/workshops/research/spatial-sound-live4life}{three} 3-hour sessions and \href{https://www.cirmmt.org/en/events/workshops/research/live4life_workshop-nov23?set_language=en}{two} full-day sessions) organized in March, April and November 2023, Montréal, Canada.
+
+\vspace{0.6em}
+
+\noindent Forum des images, a one-day training workshop organized as part of the \href{https://isea2023.isea-international.org/en/accueil}{International Symposium on Electronic Arts (ISEA)} on May 17, 2023, Paris, France.
+
+\vspace{0.6em}  
+
+
+%\includegraphics[width=\textwidth]{/Users/xon/Documents/Projets/X_Candidatures/Resume CV/CL - Resume/PhotoAkousma.png}
+
+\begin{figure}[hbt]
+ \center  \includegraphics[width=16cm]{PhotoAkousmaS.png}
+  %\caption{}
+  \\ \vspace{-0.3em}  
+  %\footnotesize Photo @ Akousma Festival 2021
+  \footnotesize Photo @Akousma / La Conserve Média. 2021
+\end{figure}
+
+\begin{figure}[hbt]
+ \center  \includegraphics[width=16cm]{Controllers2021S.jpg}
+  %\caption{}
+  \\ \vspace{-0.3em}  
+  %\footnotesize Photo @ Akousma Festival 2021
+  \footnotesize Photo of the spatial performance tool \textit{Live 4 Life} @ Université de Montréal. 2021
+\end{figure}
+
+\begin{figure}[hbt]
+ \center  \includegraphics[width=16cm]{ConcertJIMS.jpg}
+  %\caption{}
+  \\ \vspace{-0.3em}  
+  %\footnotesize Photo @ Akousma Festival 2021
+  \footnotesize Photo @ Journées d'Informatique Musicale. 2019
+\end{figure}
+
+
+
+\end{document}
+
+
+
+
+
