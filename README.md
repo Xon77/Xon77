@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔭 My **spatial research**, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
-👯 Currently **looking for audiovisual collaborations**, particularly with **audiovisual developers**, or with **dancers / movement artists** (e.g. circus). Technically, the audiovisual object mapping could be developed through open source tools, such as Processing, Open Frameworks, Hydra, or even through commercial tools like Touch Designer and Resolume, as long as the creation process and the code are published on Github and open to everyone.
+👯 Currently **looking for collaborations**, particularly with **audiovisual developers**, or with **dancers / movement artists** (e.g. circus). Technically, the audiovisual object mapping could be developed through open source tools, such as Processing, Open Frameworks, Hydra, or even through commercial tools like Touch Designer and Resolume, as long as the creation process and the code are published on Github and open to everyone.
 
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
