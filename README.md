@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation at UQAM until august 2024. 
 
- 🔭 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This **spatial research**, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
+💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. 
+
+🔭 This **spatial research**, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
 👯 Currently **looking for collaborations**, particularly with **audiovisual developers**, or with **dancers / movement artists** (e.g. circus). Technically, the audiovisual object mapping could be developed through open source tools, such as Processing, Open Frameworks, Hydra, or even through commercial tools like Touch Designer and Resolume, as long as the creation process and the code are published on Github and open to everyone.
 
