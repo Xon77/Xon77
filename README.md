@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 After all these years in spatial research, I am now developing a new project based on controlling live coding that can accompany this last project (to be released soon hopefully).
 
-👯 Currently **looking for collaborations**, particularly with **audiovisual developers**, or with **dancers / movement artists** (e.g. circus). Technically, the audiovisual object mapping could be developed through open source tools, such as Processing, Open Frameworks, Hydra, or even through commercial tools like Touch Designer and Resolume, as long as the creation process and the code are published on Github and open to everyone.
+👯 Currently **looking for collaborations**, particularly with **audiovisual developers**, or with **dancers / movement artists** (e.g. circus), particularly with open source and free tools, in order that the creation process and the code are published on Github and open to everyone.
 
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
