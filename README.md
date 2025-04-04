@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!--After all these years in spatial research, I am now developing a new project based on controlling live coding that can accompany this last project (to be released soon hopefully).-->
 
-👯 Currently **looking for academic positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published on GitHub and accessible to everyone.
+👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published on GitHub and accessible to everyone.
 
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
