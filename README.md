@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 This **spatial research**, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
-<!--After all these years in spatial research, I am now developing a new project based on controlling live coding that can accompany this last project (to be released soon hopefully).-->
+After all these years in spatial research, I am now developing a new project based on controlling audiovisual live coding that can accompany this last project (to be released soon)!
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
