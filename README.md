@@ -59,7 +59,12 @@ Here are some ideas to get you started:
 </a>
 
 
+<details>
+<summary>📸 To see me</summary>
+
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
+
+</details>
 
 
 <details>
