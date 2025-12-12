@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
 
+---
 
 <details>
 <summary>📸 To see me</summary>
