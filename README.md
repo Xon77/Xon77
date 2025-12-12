@@ -60,4 +60,13 @@ Here are some ideas to get you started:
 
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
+
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
+
+</div>
  
