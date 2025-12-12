@@ -62,10 +62,8 @@ Here are some ideas to get you started:
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
 
-## 🐉 GitHub Contribution Snake
-
 <details>
-<summary>▶️ See GitHub Contribution Snake</summary>
+<summary>🐉 GitHub Contribution Snake</summary>
 
 <div align="center">
 
