@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </details>
 
 
-## Code activity & stats <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
+## Code activity & stats &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
 <details>
 <summary>📊 Most Languages Used</summary>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 </details>
 
-## 💖 Support My Work <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
+## 💖 Support My Work &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
 
 If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee. Your support keeps the projects going!
 
