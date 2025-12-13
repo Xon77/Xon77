@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 
 </details>
 
+## Github stars & Profile views
 
 <a href="https://github.com/Xon77">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
@@ -119,7 +120,7 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 
 </div>
 
----
+## Links
 
 <div align="center">
 
