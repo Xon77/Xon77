@@ -1,5 +1,6 @@
-### Hi 👋 My name is Christophe Lengelé (ChristOn - Xon)
+## Hi 👋
 
+### I'm Christophe Lengelé (ChristOn or Xon).
 <!--
 **Xon77/Xon77**
 
