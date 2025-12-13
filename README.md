@@ -75,12 +75,11 @@ Here are some ideas to get you started:
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br>
-<a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
-    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
-</a>
-&nbsp;
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
+</a>
+<a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
+    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
 </a>
 <br>
 <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
