@@ -25,6 +25,36 @@ Here are some ideas to get you started:
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
+<details>
+<summary>📸 To see me</summary>
+
+![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
+
+</details>
+
+
+<details>
+<summary>📊 Most Languages Used</summary>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+</details>
+
+<details>
+<summary>🐉 GitHub Contribution Snake</summary>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
+
+</div>
+
+</details>
+
 ---
 
 <div align="center">
@@ -66,35 +96,3 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-
----
-
-<details>
-<summary>📸 To see me</summary>
-
-![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
-
-</details>
-
-
-<details>
-<summary>📊 Most Languages Used</summary>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-</details>
-
-<details>
-<summary>🐉 GitHub Contribution Snake</summary>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
-
-</div>
-
-</details>
