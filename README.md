@@ -70,19 +70,11 @@ After all these years in spatial research, since 2025 I have been developing a n
 </details>
 
 
-## 🌱 Open source diffusion
-
-<a href="https://github.com/Xon77">
-    <img src="https://img.shields.io/badge/Open%20to%20Open%20Source%20Work-brightgreen?style=flat&logo=opensourceinitiative&logoColor=white" alt="Open to Open Source Work">
-</a>
-&nbsp;
-<a href="mailto:christophe.lengele@yahoo.fr">
-    <img src="https://img.shields.io/badge/Email-christophe.lengele@yahoo.fr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
+## 🌱 Open source diffusion &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/Open%20to%20Open%20Source%20Work-brightgreen?style=flat&logo=opensourceinitiative&logoColor=white" alt="Open to Open Source Work"></a> <a href="mailto:christophe.lengele@yahoo.fr"><img src="https://img.shields.io/badge/Email-christophe.lengele@yahoo.fr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 
 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special [**focus on open source and free tools**](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
-## 📈 Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
+## 📈 Code activity & metrics : &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
 ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
@@ -95,7 +87,7 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xon77&theme=radical&hide_border=true)
 
