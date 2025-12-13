@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe">
 </a>
 &nbsp;
-<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
+<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf">
     <img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe">
 </a>
 &nbsp;
