@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 If any of my work has been helpful or gave you ideas, feel free to buy me a coffee to keep the projects going!
 
-## To see me more
+## To see me More
 
 <details>
 <summary>🎭 in performance in 2025</summary>
@@ -102,7 +102,7 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
 </details>
 
 
-## Social links
+## Social Links
 
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
