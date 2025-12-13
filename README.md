@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024.
 
+<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe">
+</a>
+&nbsp;
+<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe">
+</a>
+
 ## Spatial performance
 
 💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
@@ -104,14 +112,6 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 
 ## Links
 
-<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe">
-</a>
-&nbsp;
-<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe">
-</a>
-&nbsp;
 <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
 </a>
