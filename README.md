@@ -102,7 +102,7 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
 </details>
 
 
-## Social Links
+## 🌐 Social Links
 
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
