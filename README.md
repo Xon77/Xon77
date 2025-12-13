@@ -98,17 +98,9 @@ Here are some ideas to get you started:
 
 </details>
 
-## 💖 Support My Work
+## 💖 Support My Work <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
 
 If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee. Your support keeps the projects going!
-
-<div align="center">
-
-<a href="https://ko-fi.com/Live4Life">
-  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="36">
-</a>
-
-</div>
 
 ## Links
 
