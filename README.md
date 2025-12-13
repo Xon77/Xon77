@@ -131,7 +131,6 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
 <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
 </a>
-<br>
 - Research : <a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
     <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'>
 </a>
