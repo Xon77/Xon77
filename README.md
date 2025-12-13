@@ -62,7 +62,7 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 
 Your support keeps the projects going!
 
-## To see me
+## To see me more
 
 <details>
 <summary>🎭 in performance in 2025</summary>
