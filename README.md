@@ -89,7 +89,7 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 </details>
 
 <details>
-<summary>📊 Most Languages Used</summary>
+<summary>🛠️ Most Languages Used</summary>
 
 <div align="center">
 
