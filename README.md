@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
+**Akousma Festival, at Usine C, Montréal, Canada, October 15th 2021: for a dome of 24 loudspeakers.**
+
 <div align="center">
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
