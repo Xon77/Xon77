@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 **8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
 
+<div align="center">
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
+
+</div>
+
 </details>
 
 <details>
