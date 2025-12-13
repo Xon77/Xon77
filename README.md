@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/performance2025_slideshow.gif)
 
-**8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
+**Sounds of Machines II, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
-**Akousma Festival, at Usine C, Montréal, Canada, October 15th 2021: for a dome of 24 loudspeakers.**
+**Free party with Normandeau, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.**
 
 <div align="center">
 
