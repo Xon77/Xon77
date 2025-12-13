@@ -118,9 +118,9 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
 
 ---
 
-## 🌐 Social Links
+## 🌐 Links
 
-<a href='https://www.instagram.com/christophexon' target="_blank">
+- Social : <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
 </a>
 &nbsp;
@@ -132,7 +132,7 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
 </a>
 <br>
-<a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
+- Research : <a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
     <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'>
 </a>
 &nbsp;
@@ -140,6 +140,6 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br>
-<a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
+- Performance Videos : <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
     <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
 </a>
