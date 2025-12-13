@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot_2025.gif)
 
-**Photos realized by Julien Dajez**
+**Photos realized by Julien Dajez in June 2025.**
 
 </details>
 
