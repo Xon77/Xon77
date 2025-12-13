@@ -28,7 +28,7 @@ I have been developing in [SuperCollider](https://supercollider.github.io) since
 
 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
-## 🎬 To see me More :
+## 🎬 To see me More
 
 <details>
 <summary>🎭 in performance in 2025</summary>
@@ -74,7 +74,7 @@ After all these years in spatial research, since 2025 I have been developing a n
 
 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special [**focus on open source and free tools**](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
-## 📈 Code activity & metrics : &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
+## 📈 Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
 ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
