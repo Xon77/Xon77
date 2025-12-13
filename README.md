@@ -1,9 +1,9 @@
-### Hi there 👋 
+### Hi there 👋
 
 <!--
-**Xon77/Xon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Xon77/Xon77**
 
-&nbsp;&nbsp; 
+&nbsp;&nbsp;
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xon77)
 Here are some ideas to get you started:
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024. 
+🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024.
 
-💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project. 
+💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
 🔭 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and performing audiovisual live coding named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
@@ -89,4 +89,3 @@ Here are some ideas to get you started:
 </div>
 
 </details>
- 
