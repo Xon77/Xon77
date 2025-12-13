@@ -16,11 +16,11 @@ I received a **doctorate in composition and sound creation** from Université de
 
 ---
 
-## 🔭 Spatial performance : ***Live 4 Life***
+## 🔭 Spatial performance : ***[Live 4 Life](https://github.com/Xon77/Live4Life)***
 
 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
-## 💻 Audiovisual live coding : ***Live 4 Bubbles***
+## 💻 Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
 
 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
