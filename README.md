@@ -69,6 +69,17 @@ Here are some ideas to get you started:
 
 
 <details>
+<summary>📊 Most Languages Used</summary>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+</details>
+
+<details>
 <summary>🐉 GitHub Contribution Snake</summary>
 
 <div align="center">
