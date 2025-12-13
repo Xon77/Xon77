@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
+## To see me
+
 <details>
-<summary>🎭 To see me in performance in 2025</summary>
+<summary>🎭 in performance in 2025</summary>
 
 ![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/performance2025_slideshow.gif)
 
@@ -50,16 +52,16 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>📸 To see me in photo shoot in 2025</summary>
+<summary>📸 in photo shoot in 2025</summary>
 
 ![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot2025_slideshow.gif)
 
-**Photos réalisées par Julien Dajez**
+**Photos realized by Julien Dajez**
 
 </details>
 
 <details>
-<summary>📷 To see me in performance in 2021</summary>
+<summary>📷 in performance in 2021</summary>
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
@@ -73,6 +75,8 @@ Here are some ideas to get you started:
 
 </details>
 
+
+## Code activity
 
 <details>
 <summary>📊 Most Languages Used</summary>
