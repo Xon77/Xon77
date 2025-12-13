@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### I'm Christophe Lengelé (ChristOn or Xon)
+### I'm Christophe Lengelé (ChristOn or Xon).
 <!--
 **Xon77/Xon77**
 
@@ -142,5 +142,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/Xon77">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee. Your support keeps the projects going!
+
+<div align="center">
+
+[![Ko-fi](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/Live4Life)
 
 </div>
