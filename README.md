@@ -25,38 +25,45 @@ Here are some ideas to get you started:
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
+<div align="center">
+
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
-<a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
-    <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'>
-</a>
-<a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
+&nbsp;
 <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
 </a>
-<a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
-    <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
+<br>
+<a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
+    <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'>
 </a>
-<!--
-<a href='?' target="_blank">
-    <img alt='SoundCloud' src='https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white'>
+&nbsp;
+<a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
--->
+<br>
 <a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
-    <img alt='FesseBook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
+    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
 </a>
+&nbsp;
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
 </a>
- <a href="https://github.com/Xon77">
+<br>
+<a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
+    <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
+</a>
+<br>
+<a href="https://github.com/Xon77">
     <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
 </a>
+&nbsp;
 <a href="https://github.com/Xon77">
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
+
+</div>
 
 ---
 
