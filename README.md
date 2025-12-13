@@ -82,8 +82,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe">
+</a>
+&nbsp;
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe">
 </a>
 &nbsp;
 <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
