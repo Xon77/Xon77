@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Creative Coder & Performer &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe"></a> <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe"></a>
+## 🎓 Creative Coder & Performer &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe"></a> <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe"></a>
 
-🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024.
+I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024.
 
-## Spatial performance : ***Live 4 Life***
+## 💻 Spatial performance : ***Live 4 Life***
 
-💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
+I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
-## Audiovisual live coding : ***Live 4 Bubbles***
+## 🔭 Audiovisual live coding : ***Live 4 Bubbles***
 
-🔭 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
+After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
-## Open source dissemination
+## 👯 Open source dissemination
 
-👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special [**focus on open source and free tools**](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
+Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special [**focus on open source and free tools**](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
 ## Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
