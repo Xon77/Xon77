@@ -104,7 +104,7 @@ Your support keeps the projects going!
 </details>
 
 
-## Links
+## Social links
 
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
