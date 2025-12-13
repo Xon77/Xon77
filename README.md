@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <a href="https://github.com/Xon77">
-    <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=Xon77&style=for-the-badge" alt="page views" />
 </a>
 &nbsp;
 <a href="https://github.com/Xon77">
