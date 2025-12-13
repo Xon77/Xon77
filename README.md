@@ -98,12 +98,13 @@ Here are some ideas to get you started:
 
 </details>
 
+
 <a href="https://github.com/Xon77">
-    <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
 &nbsp;
 <a href="https://github.com/Xon77">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
+    <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
 </a>
 
 ## 💖 Support My Work
