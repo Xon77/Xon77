@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </details>
 
 
-## Code activity & stats
+## Code activity & stats, Github stars & Profile views
 
 <details>
 <summary>📊 Most Languages Used</summary>
@@ -97,8 +97,6 @@ Here are some ideas to get you started:
 </div>
 
 </details>
-
-## Github stars & Profile views
 
 <a href="https://github.com/Xon77">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
