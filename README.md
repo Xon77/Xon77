@@ -32,6 +32,36 @@ Here are some ideas to get you started:
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
+## Code activity & stats &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
+
+<details>
+<summary>📊 Most Languages Used</summary>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+</details>
+
+<details>
+<summary>🐉 GitHub Contribution Snake</summary>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
+
+</div>
+
+</details>
+
+## 💖 Support My Work &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
+
+If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee.
+
+Your support keeps the projects going!
+
 ## To see me
 
 <details>
@@ -73,34 +103,6 @@ Here are some ideas to get you started:
 
 </details>
 
-
-## Code activity & stats &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
-
-<details>
-<summary>📊 Most Languages Used</summary>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-</details>
-
-<details>
-<summary>🐉 GitHub Contribution Snake</summary>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
-
-</div>
-
-</details>
-
-## 💖 Support My Work &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
-
-If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee. Your support keeps the projects going!
 
 ## Links
 
