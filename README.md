@@ -31,15 +31,15 @@ After all these years in spatial research, since 2025 I have been developing a n
 <details>
 <summary>🎭 in performance in 2025</summary>
 
-![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2025.gif)
-
-**Sounds of Machines II, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
-
 <div align="center">
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
 </div>
+
+![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2025.gif)
+
+**Sounds of Machines II, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
 
 </details>
 
@@ -55,15 +55,15 @@ After all these years in spatial research, since 2025 I have been developing a n
 <details>
 <summary>📷 in performance in 2021</summary>
 
-![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
-
-**Free party with Normandeau, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.**
-
 <div align="center">
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
 
 </div>
+
+![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
+
+**Free party with Normandeau, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.**
 
 </details>
 
