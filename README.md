@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💻 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
 
-🔭 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and performing audiovisual live coding named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
+🔭 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 <summary>📸 To see me in performance in 2021</summary>
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
+
+<div align="center">
+
+[![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
+
+</div>
 
 </details>
 
