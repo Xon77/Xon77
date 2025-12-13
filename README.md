@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </details>
 
 
-## Code activity
+## Code activity & stats
 
 <details>
 <summary>📊 Most Languages Used</summary>
@@ -97,6 +97,14 @@ Here are some ideas to get you started:
 </div>
 
 </details>
+
+<a href="https://github.com/Xon77">
+    <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
+</a>
+&nbsp;
+<a href="https://github.com/Xon77">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
+</a>
 
 ## 💖 Support My Work
 
@@ -143,14 +151,6 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 <br>
 <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
     <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
-</a>
-<br>
-<a href="https://github.com/Xon77">
-    <img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" />
-</a>
-&nbsp;
-<a href="https://github.com/Xon77">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
 
 </div>
