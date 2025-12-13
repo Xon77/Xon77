@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <details>
 <summary>🎭 To see me in performance in 2025</summary>
 
-![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/performance_2025.gif)
+![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/performance2025_slideshow.gif)
 
 **8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
 
