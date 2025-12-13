@@ -26,7 +26,16 @@ Here are some ideas to get you started:
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
 <details>
-<summary>📸 To see me</summary>
+<summary>🎭 To see me in performance in 2025</summary>
+
+![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/performance_2025.gif)
+
+**8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
+
+</details>
+
+<details>
+<summary>📸 To see me in performance in 2021</summary>
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
