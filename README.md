@@ -75,30 +75,30 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202024b.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>
 &nbsp;
 <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank">
-    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
 <br>
 <a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank">
-    <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'>
+    <img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'>
 </a>
 &nbsp;
 <a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br>
 <a href='https://www.instagram.com/christophexon' target="_blank">
-    <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
+    <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 </a>
 <a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
-    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
+    <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
 </a>
 <br>
 <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
-    <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
+    <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
 </a>
 <br>
 <a href="https://github.com/Xon77">
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;
 <a href="https://github.com/Xon77">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" />
 </a>
 
 </div>
