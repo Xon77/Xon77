@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 💖 Support My Work &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/Live4Life"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="28"></a>
 
-If any of my work has been helpful or gave you ideas, feel free to show your support by buying me a coffee to keep the projects going!
+If any of my work has been helpful or gave you ideas, feel free to buy me a coffee to keep the projects going!
 
 ## To see me more
 
