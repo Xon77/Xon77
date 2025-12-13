@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Coder & Performer
+## Creative Coder & Performer
 
 🎓 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until august 2024.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🔭 After all these years in spatial research, since 2025 I have been developing a new lifelong project based on controlling and **performing audiovisual live coding** named **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), and **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
-## Open source creation
+## Open source dissemination
 
 👯 Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual developers** or **dancers / movement artists** (e.g. circus), with a special focus on open source and free tools, and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
