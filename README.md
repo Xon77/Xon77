@@ -104,8 +104,6 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 
 ## Links
 
-<div align="center">
-
 <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf">
     <img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe">
 </a>
@@ -129,6 +127,7 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 <a href='https://www.instagram.com/christophexon' target="_blank">
     <img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'>
 </a>
+&nbsp;
 <a href='https://www.facebook.com/christophe.lengele.1' target="_blank">
     <img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'>
 </a>
@@ -136,5 +135,3 @@ If any of my work has been helpful or gave you ideas, feel free to show your sup
 <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank">
     <img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'>
 </a>
-
-</div>
