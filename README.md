@@ -41,6 +41,15 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+<summary>📷 To see me in photo shoot in 2025</summary>
+
+![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot2025_slideshow.gif)
+
+**Photos réalisées par Julien Dajez**
+
+</details>
+
+<details>
 <summary>📸 To see me in performance in 2021</summary>
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
