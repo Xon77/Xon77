@@ -24,7 +24,12 @@ I received a **doctorate in composition and sound creation** from Université de
 
 ## 🔭 Spatial performance : ***[Live 4 Life](https://github.com/Xon77/Live4Life)***
 
-I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for more personal thoughts and technical details on this life project.
+I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code.
+
+To read and know more about this life project :
+- **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for **[more personal thoughts](https://github.com/Xon77/Live4Life/wiki/Personal-context-and-questions)** or **[spatialization techniques](https://github.com/Xon77/Live4Life/wiki/Spatial-objectives)**,
+- my articles presented at ICMC 2018, 2021 & 2024, ISEA 2023 or released at Cambridge University Press,
+- in french, my **[doctoral thesis on spatial improvisation](https://www.researchgate.net/publication/360018268_L'improvisation_spatiale_generee_a_partir_de_motifs_polyrythmiques_et_de_sequences_de_parametres_en_boucle_via_l'outil_de_performance_Live_4_Life)**, or article at JIM 2018.
 
 ## 💻 Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
 
@@ -75,10 +80,10 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 
 ## 📈 Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
-**🛠️ Most Languages Used :** ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white) ![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+🛠️ Most Languages Used : ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white) ![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
 <details>
-<summary>📊 GitHub Stats & Languages</summary>
+<summary>📊 GitHub Stats</summary>
 
 <div align="center">
 
