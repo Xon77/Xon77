@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Christophe Lengelé (ChristOn or Xon).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9370DB&vCenter=true&center=true&multiline=false&width=1000&lines=A+coder%2C+researcher+%26+performer;Building+mainly+with+SuperCollider%2C+Tidal+Cycles+%26+Hydra;Doctor+in+composition+%26+sound+creation;Passionate+about+spatial+sound+improvisation;Exploring+and+loving+audiovisual+live+coding;Investigating+AI+opportunities+%26+issues;Welcome+to+my+performance-tool+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=9370DB&vCenter=true&center=true&multiline=false&width=1000&lines=A+coder%2C+researcher+%26+performer;Building+mainly+with+SuperCollider%2C+Tidal+Cycles+%26+Hydra;Doctor+in+composition+%26+sound+creation;Passionate+about+spatial+sound+improvisation;Exploring+and+loving+audiovisual+live+coding;Investigating+AI+opportunities+%26+issues;Welcome+to+my+performance-tool+world!)](https://git.io/typing-svg)
 
 </div>
 
