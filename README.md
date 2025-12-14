@@ -24,12 +24,12 @@ I received a **doctorate in composition and sound creation** from Université de
 
 ## 🔭 Spatial performance : ***[Live 4 Life](https://github.com/Xon77/Live4Life)***
 
-I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code.
+I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**.
 
-To read and know more about this life project :
-- **[Check this Wiki](https://github.com/Xon77/Live4Life/wiki)** for **[more personal thoughts](https://github.com/Xon77/Live4Life/wiki/Personal-context-and-questions)** or **[spatialization techniques](https://github.com/Xon77/Live4Life/wiki/Spatial-objectives)**,
-- my articles presented at ICMC 2018, 2021 & 2024, ISEA 2023 or released at Cambridge University Press,
-- in french, my **[doctoral thesis on spatial improvisation](https://www.researchgate.net/publication/360018268_L'improvisation_spatiale_generee_a_partir_de_motifs_polyrythmiques_et_de_sequences_de_parametres_en_boucle_via_l'outil_de_performance_Live_4_Life)**, or article at JIM 2018.
+This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. To read and know more about this life project :
+- [Check this Wiki](https://github.com/Xon77/Live4Life/wiki) for [more personal thoughts](https://github.com/Xon77/Live4Life/wiki/Personal-context-and-questions) or [spatialization techniques](https://github.com/Xon77/Live4Life/wiki/Spatial-objectives),
+- my articles presented at [ICMC 2018](https://www.researchgate.net/profile/Christophe-Lengele/publication/327058300_Live_4_Life_-_A_spatial_performance_tool_focused_on_rhythm_and_parameter_loops/links/5b75aa3245851546c90a316f/Live-4-Life-A-spatial-performance-tool-focused-on-rhythm-and-parameter-loops.pdf), [2021](https://www.researchgate.net/profile/Christophe-Lengele/publication/354526907_The_story_and_the_insides_of_a_spatial_performance_tool_Live_4_Life/links/613ca2814e1df271062b537f/The-story-and-the-insides-of-a-spatial-performance-tool-Live-4-Life.pdf) & 2024, [ISEA 2023](https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Lengele_Live_4_Life.pdf) or released at Cambridge University Press,
+- in french, my [doctoral thesis on spatial improvisation](https://www.researchgate.net/publication/360018268_L'improvisation_spatiale_generee_a_partir_de_motifs_polyrythmiques_et_de_sequences_de_parametres_en_boucle_via_l'outil_de_performance_Live_4_Life), or article at JIM 2018.
 
 ## 💻 Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
 
