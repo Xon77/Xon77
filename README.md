@@ -37,7 +37,7 @@ After all these years in spatial research, since 2025 I have been developing a n
 
 ---
 
-## 🎬 To see me More
+## 🎬 To see me & listen to me More
 
 <details>
 <summary>🎭 in performance in 2025</summary>
