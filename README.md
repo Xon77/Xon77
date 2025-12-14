@@ -37,7 +37,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ---
 
-## 🎬 To see me & listen to me More
+## 🎬 To see me or listen to me More
 
 <details>
 <summary>🎭 in performance in 2025</summary>
