@@ -32,7 +32,7 @@ I have been developing in [SuperCollider](https://supercollider.github.io) since
 ## 💻 Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
 
 After all these years in spatial research & creation, since 2025 I have been developing a new lifelong project for **performing audiovisual live coding with databases, controllers and gestures**, named :
-- **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (based on Tidal Cycles, Haskell and SuperCollider), a kind of **DJing with code and pattern parameters**,
+- **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (a form of **DJing with code and pattern parameters** based on Tidal Cycles, Haskell and SuperCollider),
 - & **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** (a visual sequencer based on Hydra and javascript).
 
 ---
