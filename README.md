@@ -75,12 +75,6 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 
 ## 📈 Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
 
-![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white)
-![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-
 <details>
 <summary>📊 GitHub Stats</summary>
 
@@ -95,7 +89,7 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 </details>
 
 <details>
-<summary>🛠️ Most Languages Used</summary>
+<summary>🛠️ Most Languages Used : ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white) ![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)</summary>
 
 <div align="center">
 
