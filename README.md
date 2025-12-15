@@ -46,7 +46,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ![Performance 2025](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2025.gif)
 
-**Sounds of Machines II, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.**
+*Sounds of Machines II*, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.
 
 </details>
 
@@ -57,7 +57,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ![Cover](https://github.com/Xon77/Xon77/blob/main/Images/XonAkousmaS.png)
 
-**Free party with Normandeau, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.**
+*Free party with Normandeau*, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.
 
 </details>
 
@@ -68,7 +68,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ![Performance 2020](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2020.jpg)
 
-**Parmegiani meets SuperCollider, electroacoustic music concert during the Ultrasons Festival at Salle Claude Champagne, Université de Montréal, Canada, in January 2020.**
+*Parmegiani meets SuperCollider*, electroacoustic music concert during the Ultrasons Festival at Salle Claude Champagne, Université de Montréal, Canada, in January 2020.
 
 </details>
 
@@ -79,7 +79,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ![Performance 2019](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2019.jpg)
 
-**Free Parties will survive, electroacoustic music concert during the Journées d'Informatique Musicale at the auditorium Henri Grenet of the Cité des Arts in Bayonne, France, on Monday, May 13th 2019.**
+*Free Parties will survive*, electroacoustic music concert during the Journées d'Informatique Musicale at the auditorium Henri Grenet of the Cité des Arts in Bayonne, France, on Monday, May 13th 2019.
 
 </details>
 
