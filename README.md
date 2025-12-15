@@ -37,7 +37,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ---
 
-## 🎭 Performances
+## 🎬 Performances
 
 <details>
 <summary>in March 2025 : Sounds of Machines II</summary>
