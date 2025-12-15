@@ -37,20 +37,10 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ---
 
-## 🎬 Media & Performances
+## 🎭 Performances
 
 <details>
-<summary>📸 in photo shoot in June 2025</summary>
-
-![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot_2025.gif)
-
-**Photos realized by Julien Dajez in June 2025.**
-
-</details>
-
-
-<details>
-<summary>🎭 in performance in March 2025 : Sounds of Machines II</summary>
+<summary>in March 2025 : Sounds of Machines II</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
@@ -61,7 +51,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>📷 in performance in October 2021 : Free party with Normandeau</summary>
+<summary>in October 2021 : Free party with Normandeau</summary>
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
 
@@ -72,13 +62,26 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>🎵 in performance in May 2019 : Free Parties will survive</summary>
+<summary>in May 2019 : Free Parties will survive</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NfWXF6copEs)
 
 ![Performance 2019](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2019.jpg)
 
 **Free Parties will survive, electroacoustic music concert during the Journées d'Informatique Musicale at the auditorium Henri Grenet of the Cité des Arts in Bayonne, France, on Monday, May 13th 2019.**
+
+</details>
+
+---
+
+## 📸 Photos
+
+<details>
+<summary>Photo shoot in June 2025</summary>
+
+![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot_2025.gif)
+
+**Photos realized by Julien Dajez in June 2025.**
 
 </details>
 
