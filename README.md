@@ -62,6 +62,17 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
+<summary>in January 2020 : Free Party with Parmegiani</summary>
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Nb7ITdBkikE)
+
+![Performance 2020](https://github.com/Xon77/Xon77/blob/main/Images/Performance_2020.jpg)
+
+**Free Party with Parmegiani meets SuperCollider, electroacoustic music concert during the Ultrasons Festival in Paris, France, in January 2020.**
+
+</details>
+
+<details>
 <summary>in May 2019 : Free Parties will survive</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NfWXF6copEs)
