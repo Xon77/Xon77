@@ -51,7 +51,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 <details>
 
 <details>
-<summary>🎭 in performance in March 2025 : ***Sounds of Machines II***</summary>
+<summary>🎭 in performance in March 2025 : Sounds of Machines II</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
