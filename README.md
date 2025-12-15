@@ -48,7 +48,6 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 </details>
 
-<details>
 
 <details>
 <summary>🎭 in performance in March 2025 : Sounds of Machines II</summary>
@@ -61,6 +60,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 </details>
 
+<details>
 <summary>📷 in performance in October 2021 : ***Free party with Normandeau***</summary>
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
