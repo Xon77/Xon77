@@ -22,7 +22,7 @@ I received a **doctorate in composition and sound creation** from Université de
 
 ---
 
-## 🔭 Spatial performance : ***[Live 4 Life](https://github.com/Xon77/Live4Life)***
+## 🔭 Spatial sound performance : ***[Live 4 Life](https://github.com/Xon77/Live4Life)***
 
 I have been developing in [SuperCollider](https://supercollider.github.io) since 2011 a sound creation and spatialisation tool named **[Live 4 Life](https://github.com/Xon77/Live4Life)**, which aims to facilitate the **improvisation of electronic music on multiple speakers**. This research, which questions ways of linking rhythmic and spatial parameters, is based on the concept of free and open works, both from the point of view of form and in the diffusion of open source code. To read more about this life project, check :
 - [this Wiki](https://github.com/Xon77/Live4Life/wiki) with notes on [spatialization techniques](https://github.com/Xon77/Live4Life/wiki/Spatial-objectives), [creative process thoughts](https://github.com/Xon77/Live4Life/wiki/Personal-context-and-questions), and [project motivations](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life),
