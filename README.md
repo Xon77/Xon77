@@ -40,7 +40,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 ## 🎬 Performances
 
 <details>
-<summary>in March 2025 : Sounds of Machines II</summary>
+<summary>in March 2025 : <i>Sounds of Machines II</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
@@ -51,7 +51,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in October 2021 : Free party with Normandeau</summary>
+<summary>in October 2021 : <i>Free party with Normandeau</i></summary>
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
 
@@ -62,7 +62,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in January 2020 : Free Party with Parmegiani</summary>
+<summary>in January 2020 : <i>Free Party with Parmegiani</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Nb7ITdBkikE)
 
@@ -73,7 +73,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in May 2019 : Free Parties will survive</summary>
+<summary>in May 2019 : <i>Free Parties will survive</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NfWXF6copEs)
 
