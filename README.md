@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=9400D4&vCenter=true&center=true&multiline=false&width=1000&lines=A+coder%2C+composer%2C+researcher+%26+performer;Building+mainly+with+SuperCollider%2C+Tidal+Cycles+%26+Hydra;Dedicated+to+mainly+using+open+source+creative+software;Doctor+in+composition+%26+sound+creation;Passionate+about+spatial+performance+%26+sound+improvisation;Exploring+%26+loving+audiovisual+live+coding;Investigating+AI+opportunities+in+creative+coding+%26+issues;Welcome+to+my+performance-tool+world!)](https://git.io/typing-svg)
 
 </div>
-
 <!--
 Keywords: live coding, audiovisual live coding, spatial audio, spatial performance, SuperCollider,
 Tidal Cycles, Hydra, electronic music, improvisation, sound spatialisation, multichannel audio,
