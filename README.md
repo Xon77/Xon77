@@ -103,8 +103,7 @@ Photos realized by Julien Dajez in June 2025.
 I'm seeking:
 - Academic or creative positions,
 - Collaborations with audiovisual live coders,
-- Projects with dancers / movement artists / circus performers,
-- Open source creative coding projects.
+- Open source creative projects with dancers / movement artists / circus performers.
 
 With a special [focus on open source and free tools](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
