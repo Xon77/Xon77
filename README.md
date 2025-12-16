@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi 👋, I'm Christophe Lengelé - ChristOn or Xon
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=9400D4&vCenter=true&center=true&multiline=false&width=1000&lines=A+coder%2C+composer%2C+researcher+%26+performer;Building+mainly+with+SuperCollider%2C+Tidal+Cycles+%26+Hydra;Dedicated+to+mainly+using+open+source+creative+software;Doctor+in+composition+%26+sound+creation;Passionate+about+spatial+performance+%26+sound+improvisation;Exploring+%26+loving+audiovisual+live+coding;Investigating+AI+opportunities+in+creative+coding+%26+issues;Welcome+to+my+performance-tool+world!)](https://git.io/typing-svg)
 </div>
 <!--
@@ -13,7 +12,6 @@ doctorate composition, UQAM, Université de Montréal, Live 4 Life, Live 4 Bubbl
 collaborative performance, movement artists, dancers, circus, free software, open source tools,
 academic positions, creative positions, audiovisual developers
 -->
-
 ## 🎓 Creative Coder & Performer &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe"></a> <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe"></a>
 
 I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until August 2024.
