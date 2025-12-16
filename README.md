@@ -140,10 +140,16 @@ If any of my work has been helpful or gave you ideas, feel free to buy me a coff
 
 ---
 
-## 🌐 Links
+## 🌐 Connect
 
-- Social : <a href='https://www.instagram.com/christophexon' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white'></a> &nbsp; <a href='https://www.facebook.com/christophe.lengele.1' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white'></a> &nbsp; <a href='https://www.linkedin.com/in/christophe-lengelé/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'></a>
+<div align="center">
 
-- Research : <a href='https://www.researchgate.net/profile/Christophe-Lengele' target="_blank"><img alt='ResearchGate' src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white'></a> &nbsp; <a href='https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao' target="_blank"><img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christophexon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/christophe.lengele.1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophe-lengelé/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Christophe-Lengele)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ejcaJWgAAAAJ&hl=fr&oi=ao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.lengele@yahoo.fr)
 
-- Performance Videos : <a href='https://www.youtube.com/channel/UCOv5kb3IQBmgyOQPu5DOZ4g' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white'></a>
+</div>
