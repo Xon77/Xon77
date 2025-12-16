@@ -44,13 +44,8 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ## 🎬 Performances
 
-- **2025** - *Sounds of Machines II* (8ch, Washington D.C.)
-- **2021** - *Free party with Normandeau* (24ch dome, Montreal)
-- **2020** - *Parmegiani meets SuperCollider* (16ch dome, Montreal)
-- **2019** - *Free Parties will survive* (8ch circle, Bayonne)
-
 <details>
-<summary>in March 2025 : <i>Sounds of Machines II</i></summary>
+<summary><b>2025</b> - <i>Sounds of Machines II</i> (8ch, Washington D.C.)</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
@@ -61,7 +56,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in October 2021 : <i>Free party with Normandeau</i></summary>
+<summary><b>2021</b> - <i>Free party with Normandeau</i> (24ch dome, Montreal)</summary>
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
 
@@ -72,7 +67,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in January 2020 : <i>Parmegiani meets SuperCollider</i></summary>
+<summary><b>2020</b> - <i>Parmegiani meets SuperCollider</i> (16ch dome, Montreal)</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Nb7ITdBkikE)
 
@@ -83,7 +78,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 </details>
 
 <details>
-<summary>in May 2019 : <i>Free Parties will survive</i></summary>
+<summary><b>2019</b> - <i>Free Parties will survive</i> (8ch circle, Bayonne)</summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NfWXF6copEs)
 
