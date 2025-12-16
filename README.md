@@ -100,7 +100,7 @@ Photos realized by Julien Dajez in June 2025.
 
 ## 🌱 Open to Collaborations &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/Open%20to%20Open%20Source%20Work-brightgreen?style=flat&logo=opensourceinitiative&logoColor=white" alt="Open to Open Source Work"></a> <a href="mailto:christophe.lengele@yahoo.fr"><img src="https://img.shields.io/badge/Email-christophe.lengele@yahoo.fr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 
-I'm actively seeking:
+I'm seeking:
 - Academic or creative positions,
 - Collaborations with audiovisual live coders,
 - Projects with dancers / movement artists / circus performers,
