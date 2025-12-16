@@ -29,12 +29,7 @@ I have been developing in [SuperCollider](https://supercollider.github.io) since
 - my articles presented at [ICMC 2018](https://www.researchgate.net/profile/Christophe-Lengele/publication/327058300_Live_4_Life_-_A_spatial_performance_tool_focused_on_rhythm_and_parameter_loops/links/5b75aa3245851546c90a316f/Live-4-Life-A-spatial-performance-tool-focused-on-rhythm-and-parameter-loops.pdf), [2021](https://www.researchgate.net/profile/Christophe-Lengele/publication/354526907_The_story_and_the_insides_of_a_spatial_performance_tool_Live_4_Life/links/613ca2814e1df271062b537f/The-story-and-the-insides-of-a-spatial-performance-tool-Live-4-Life.pdf) & [2024](https://www.researchgate.net/publication/382113903_Exploring_Immersive_Sound_through_a_Workshop_with_the_Open_Source_Tool_Live_4_Life_Summary_of_User_Insights_and_Preferences_on_Event_vs_Track-based_Spatialization_and_Channel_vs_Object-based_Paradigms), [ISEA 2023](https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Lengele_Live_4_Life.pdf) or released at [Cambridge University Press](https://www.cambridge.org/core/journals/organised-sound/article/abs/live-4-life-a-spatial-performance-tool-to-play-the-ephemeral-and-improvise-with-space-and-playback-speeds/D1203ED3F508C6E09950B9EB65FB7831),
 - in french, my [doctoral thesis on spatial improvisation](https://www.researchgate.net/publication/360018268_L'improvisation_spatiale_generee_a_partir_de_motifs_polyrythmiques_et_de_sequences_de_parametres_en_boucle_via_l'outil_de_performance_Live_4_Life), or article at [JIM 2017](https://hal.science/hal-03353805/).
 
-## 🔨 Currently working on
-
-- 🎵 **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** - Audiovisual live coding with Tidal Cycles & Haskell
-- 🎨 **[Fizzy Hydra](https://github.com/Xon77/FizzyHydra)** - Visual sequencer based on Hydra & JavaScript
-
-## 💻 Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
+## 💻 Currently working on Audiovisual live coding : ***[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles) & [Fizzy Hydra](https://github.com/Xon77/FizzyHydra)***
 
 After all these years in spatial research & creation, since 2025 I have been developing a new lifelong project for **performing audiovisual live coding with databases, controllers and gestures**, named :
 - **[Live 4 Bubbles](https://github.com/Xon77/Live4Bubbles)** (a form of **DJing with code and pattern parameters** based on Tidal Cycles, Haskell and SuperCollider),
