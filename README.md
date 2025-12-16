@@ -89,12 +89,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 Photo shoot by Julien Dajez (June 2025)
 
-<details>
-<summary>View photos</summary>
-
 ![Photo Shoot 2025](https://github.com/Xon77/Xon77/blob/main/Images/PhotoShoot_2025.gif)
-
-</details>
 
 ---
 
