@@ -44,6 +44,11 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ## 🎬 Performances
 
+- **2025** - *Sounds of Machines II* (8ch, Washington D.C.)
+- **2021** - *Free party with Normandeau* (24ch dome, Montreal)
+- **2020** - *Parmegiani meets SuperCollider* (16ch dome, Montreal)
+- **2019** - *Free Parties will survive* (8ch circle, Bayonne)
+
 <details>
 <summary>in March 2025 : <i>Sounds of Machines II</i></summary>
 
