@@ -98,9 +98,15 @@ Photos realized by Julien Dajez in June 2025.
 
 ---
 
-## 🌱 Open source diffusion &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/Open%20to%20Open%20Source%20Work-brightgreen?style=flat&logo=opensourceinitiative&logoColor=white" alt="Open to Open Source Work"></a> <a href="mailto:christophe.lengele@yahoo.fr"><img src="https://img.shields.io/badge/Email-christophe.lengele@yahoo.fr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+## 🌱 Open to Collaborations &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/Open%20to%20Open%20Source%20Work-brightgreen?style=flat&logo=opensourceinitiative&logoColor=white" alt="Open to Open Source Work"></a> <a href="mailto:christophe.lengele@yahoo.fr"><img src="https://img.shields.io/badge/Email-christophe.lengele@yahoo.fr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 
-Currently **looking for (academic or creative) positions and seeking collaborations**, particularly with **audiovisual coders** or **dancers / movement artists** (e.g. circus), with a special [focus on open source and free tools](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
+I'm actively seeking:
+- Academic or creative positions
+- Collaborations with audiovisual live coders
+- Projects with dancers / movement artists / circus performers
+- Open source creative coding projects
+
+With a special [focus on open source and free tools](https://github.com/Xon77/Live4Life/wiki/Motivations-behind-Live-4-Life), and with the goal to ensure that the creative process and code are published and accessible to everyone.
 
 ---
 
