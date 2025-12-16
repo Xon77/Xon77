@@ -42,17 +42,10 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ---
 
-## 🎬 Performance Timeline
-
-- **2025** - [*Sounds of Machines II*](https://www.youtube.com/watch?v=rSLYvhaT0FI) (8ch, Washington D.C.)
-- **2021** - [*Free party with Normandeau*](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s) (24ch dome, Montreal)
-- **2020** - [*Parmegiani meets SuperCollider*](https://www.youtube.com/watch?v=Nb7ITdBkikE) (16ch dome, Montreal)
-- **2019** - [*Free Parties will survive*](https://www.youtube.com/watch?v=NfWXF6copEs) (8ch circle, Bayonne)
+## 🎬 Performances
 
 <details>
-<summary>Show details</summary>
-
-### in March 2025 : *Sounds of Machines II*
+<summary>in March 2025 : <i>Sounds of Machines II</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rSLYvhaT0FI)
 
@@ -60,9 +53,10 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 *Sounds of Machines II*, 8-channel improvisation recorded at the Johns Hopkins Bloomberg Center in Washington, D.C. during the SuperCollider Symposium Concert series 2025 on Saturday, March 15.
 
----
+</details>
 
-### in October 2021 : *Free party with Normandeau*
+<details>
+<summary>in October 2021 : <i>Free party with Normandeau</i></summary>
 
 [![Watch on Vimeo](https://img.shields.io/badge/Watch%20on-Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://player.vimeo.com/video/747391295?autoplay=1#t=1h21m40s)
 
@@ -70,9 +64,10 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 *Free party with Normandeau*, performance for a dome of 24 loudspeakers at Usine C, Montréal, Canada, during the Akousma Festival on October 15th 2021.
 
----
+</details>
 
-### in January 2020 : *Parmegiani meets SuperCollider*
+<details>
+<summary>in January 2020 : <i>Parmegiani meets SuperCollider</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Nb7ITdBkikE)
 
@@ -80,9 +75,10 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 *Parmegiani meets SuperCollider*, performance for a dome of 16 loudspeakers during the Ultrasons Festival at Salle Claude Champagne, Université de Montréal, Canada, in January 2020.
 
----
+</details>
 
-### in May 2019 : *Free Parties will survive*
+<details>
+<summary>in May 2019 : <i>Free Parties will survive</i></summary>
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NfWXF6copEs)
 
