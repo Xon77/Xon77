@@ -113,7 +113,9 @@ Currently **looking for (academic or creative) positions and seeking collaborati
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xon77&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
 
