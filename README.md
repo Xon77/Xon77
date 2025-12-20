@@ -37,7 +37,7 @@ After all these years in spatial research & creation, since 2025 I have been dev
 
 ---
 
-## 🎬 Performances
+## 🎬 Performance recordings
 
 <details>
 <summary><b>2025</b> - <i>Sounds of Machines II</i> (8-channel ring, Washington D.C.)</summary>
