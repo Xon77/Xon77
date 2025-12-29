@@ -18,7 +18,9 @@ academic positions, creative positions, audiovisual developers
 
 ## 🎓 Creative Coder & Performer &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20CV%20Long2025b.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(FR)-red?style=flat-square&logo=adobe"></a> <a href="https://github.com/Xon77/Xon77/blob/main/Docs/CL%20-%20Resume%202025c.pdf"><img src="https://img.shields.io/badge/PDF-CV%20(EN)-red?style=flat-square&logo=adobe"></a>
 
-I create audiovisual performances and works through live coding with custom-built tools for moving sounds, images, experiences & perceptions. I received a **doctorate in composition and sound creation** from Université de Montréal in 2022 and followed a post-doctoral research / creation in spatial improvisation at UQAM until August 2024.
+I create audiovisual performances and works through live coding with custom-built tools, exploring moving sounds, images, experiences & perceptions.
+
+I hold a **doctorate in composition and sound creation** from Université de Montréal (2022) and completed post-doctoral research / creation in spatial improvisation at UQAM (2024).
 
 ---
 
