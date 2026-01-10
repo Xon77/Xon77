@@ -120,11 +120,9 @@ With a special [focus on open source and free tools](https://github.com/Xon77/Li
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Xon77&theme=radical&hide_border=true)](https://github.com/Xon77)
+![GitHub Stats](https://github-readme-stats-q29y.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xon77&theme=radical)](https://github.com/Xon77)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xon77&theme=redical&hide_border=true)](https://github.com/Xon77)
+![Top Languages](https://github-readme-stats-q29y.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
