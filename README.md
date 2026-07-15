@@ -111,33 +111,9 @@ With a special [focus on open source and free tools](https://github.com/Xon77/Li
 
 ---
 
-## 📈 Code activity & metrics &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Xon77"><img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Xon77" /></a> <a href="https://github.com/Xon77"><img src="https://komarev.com/ghpvc/?username=Xon77" alt="page views" /></a>
+## 🛠️ Most used languages & tools
 
-🛠️ Most Languages Used : ![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white) ![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-q29y.vercel.app/api?username=Xon77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-q29y.vercel.app/api/top-langs/?username=Xon77&langs_count=8&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-</details>
-
-<details>
-<summary>🐉 GitHub Contribution Snake</summary>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Xon77/Xon77/output/github-contribution-grid-snake.svg)
-
-</div>
-
-</details>
+![SuperCollider](https://img.shields.io/badge/SuperCollider-8B4513?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iMTgiIGZpbGw9IndoaXRlIj5TQzwvdGV4dD48L3N2Zz4=&logoColor=white) ![TidalCycles](https://img.shields.io/badge/Tidal_Cycles-00CED1?style=flat&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-9370DB?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
 ---
 
